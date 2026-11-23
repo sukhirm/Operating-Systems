@@ -1,0 +1,7 @@
+processes,resources,banker_median_us,detection_median_us
+5,3,4.8,6.5
+10,3,9.0,12.2
+20,3,17.1,23.7
+40,3,34.2,46.2
+80,3,68.6,94.3
+120,3,103.4,150.5
